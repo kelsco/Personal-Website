@@ -13,6 +13,10 @@ nav {
     justify-content: space-between;
 }
 
+nav:hover {
+    background-color: black;
+}
+
 img {
     overflow-clip-margin: content-box;
     overflow: clip;
@@ -105,5 +109,23 @@ body {
     box-shadow: 0 3px 6px -2px #ccc;
     margin: 2em auto;
     padding: 1em;
-    text-align: left;
+    text-align: center;
   }
+
+  .about-img {
+
+  }
+
+  .row {
+    background-color: cadetblue;
+  }
+
+  .aboutMe {
+    display: flex;
+  }
+
+  /* #form {
+    text-align: center;
+  } */
+
+ 
